@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server/server.js",
     "test": "mocha server/**/*.test.js",
-    "test-watch": "nodemon --exec npm test" 
+    "test-watch": "nodemon --exec npm test"
   },
   "engines": {
     "node": "v8.11.2"
@@ -16,6 +16,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "lodash": "^4.17.10",
     "mongodb": "^2.2.35",
     "mongoose": "^5.2.2"
   },
