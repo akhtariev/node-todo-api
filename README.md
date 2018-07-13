@@ -120,6 +120,7 @@ Send your x-auth value in header
         "__v": 0
     }
 }
+```
 
 5. **DELETE /todos/:id - to delete a todo by id and retrieve it
 
@@ -137,6 +138,7 @@ Send your x-auth value in header
         "__v": 0
     }
 }
+```
 
 
 
